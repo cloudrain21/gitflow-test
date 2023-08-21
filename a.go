@@ -13,5 +13,5 @@ func f2() {
 }
 
 func f3() {
-    // add from refactor/test-1
+    // modify from refactor/test-1
 }
