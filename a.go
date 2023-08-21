@@ -11,3 +11,7 @@ func f1() {
 func f2() {
     // add from test-branch
 }
+
+func f3() {
+    // add from refactor/test-1
+}
